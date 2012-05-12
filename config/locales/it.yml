@@ -102,11 +102,11 @@ it:
         description: "Descrizione"
       promotion: 
         code: "Code"
-        description: "Description"
+        description: "Descrizione"
         expires_at: "Termina il"
         name: "Name"
         starts_at: "Inizia il"
-        usage_limit: "Usage limit"
+        usage_limit: "Limite Utilizzo"
       property: 
         name: 'Nome'
         presentation: 'Presentazione'
@@ -252,7 +252,7 @@ it:
   alt_text: "Testo alternativo"
   alternative_phone: "Telefono alternativo"
   amount: "Totale"
-  analytics_trackers: "Analytics Trackers"
+  analytics_trackers: "Trackers Analytics"
   api: 
     access: "API Access"
     clear_key: "Cancella API key"
@@ -618,9 +618,9 @@ it:
   order_email_resent: " Email ordine reinviata"
   order_mailer: 
     cancel_email: 
-      subject: "Cancellation of Order"
+      subject: " - Cancellazione Ordine"
     confirm_email: 
-      subject: "Order Confirmation"
+      subject: " - Conferma Ordine"
   order_not_in_system: "Numero d'ordine non valido."
   order_number: "Ordine n°"
   order_operation_authorize: "Autorizzazione"
@@ -633,7 +633,7 @@ it:
     awaiting_return: "in attesa di ritorno"
     canceled: "cancellato"
     cart: "carrello"
-    complete: "completo"
+    complete: "completato"
     confirm: "conferma"
     delivery: "consegna"
     payment: "pagamento"
@@ -663,7 +663,7 @@ it:
   path: "Percorso"
   pay: "pagare"
   payment: "Pagamento"
-  payment_actions: "Actions"
+  payment_actions: "Azioni"
   payment_gateway: "Gateway di pagamento"
   payment_information: "Informazione pagamento"
   payment_method: "Metodo di pagamento"
@@ -674,7 +674,7 @@ it:
   payment_states: 
     balance_due: "saldo"
     checkout: checkout
-    completed: completed
+    completed: 'completato'
     credit_owed: "credito nei confronti"
     failed: "fallito"
     paid: "pagato"
@@ -835,7 +835,7 @@ it:
         sentence: "con proprietà <em>%s</em> e valore <em>%s</em>"
   products: "Prodotti"
   products_with_zero_inventory_display: "I prodotti esauriti%{not} sono visualizzati"
-  promotion: Promotion
+  promotion: Promozione
   promotion_form: 
     match_policies: 
       all: "Una qualunque di queste regole"
@@ -930,7 +930,7 @@ it:
   shipment_details: "Dettagli spedizione"
   shipment_mailer: 
     shipped_email: 
-      subject: "Shipment Notification"
+      subject: "Notifica di Spedizione"
   shipment_number: "Spedizione #"
   shipment_state: "Stato della spedizione"
   shipment_states: 
