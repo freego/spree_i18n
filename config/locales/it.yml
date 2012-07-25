@@ -244,7 +244,7 @@ it:
   administration: 'Amministrazione'
   all: "Tutti"
   all_departments: 'Tutte le sezioni'
-  allow_backorders: "Lasciare fuori stock"
+  allow_backorders: "Permetti i backorder"
   allow_ssl_to_be_used_when_in_developement_and_test_modes: "Consentire l'uso della certificazione SSL negli ambienti di sviluppo e test"
   allow_ssl_to_be_used_when_in_production_mode: "Consentire l'uso della certificazione SSL nell'ambiente di produzione"
   allowed_ssl_in_production_mode: "La certificazione SSL %{not} può essere utilizzata nell'ambiente di produzione"
@@ -283,8 +283,8 @@ it:
   back: "Indietro"
   back_end: "Back End"
   back_to_store: "Torna allo shop"
-  backordered: "Inevasi"
-  backordering_is_allowed: "Inevasi %{not} ammessi"
+  backordered: "In backorder"
+  backordering_is_allowed: "Backorder %{not} ammessi"
   balance_due: "Saldo scaduto"
   best_selling_products: "Prodotti più venduti"
   best_selling_taxons: "Tassi più frequenti"
@@ -933,7 +933,7 @@ it:
   shipment_number: "Spedizione #"
   shipment_state: "Stato della spedizione"
   shipment_states: 
-    backorder: "retro-ordine"
+    backorder: "backorder"
     partial: "parziale"
     pending: "pendente"
     ready: "pronto"
