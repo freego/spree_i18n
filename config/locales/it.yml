@@ -102,11 +102,11 @@ it:
         description: "Descrizione"
       promotion: 
         code: "Code"
-        description: "Description"
+        description: "Descrizione"
         expires_at: "Termina il"
         name: "Name"
         starts_at: "Inizia il"
-        usage_limit: "Usage limit"
+        usage_limit: "Limite Utilizzo"
       property: 
         name: 'Nome'
         presentation: 'Presentazione'
@@ -252,7 +252,7 @@ it:
   alt_text: "Testo alternativo"
   alternative_phone: "Telefono alternativo"
   amount: "Totale"
-  analytics_trackers: "Analytics Trackers"
+  analytics_trackers: "Trackers Analytics"
   api: 
     access: "API Access"
     clear_key: "Cancella API key"
@@ -332,7 +332,7 @@ it:
   confirm_delete: "Conferma Cancellazione"
   confirm_password: "Conferma Password"
   continue: "Continua"
-  continue_shopping: "Continua l'acquisto"
+  continue_shopping: "Continua lo shopping"
   copy_all_mails_to: "Invia una copia della mail ai seguenti indirizzi"
   cost_price: "Costo"
   count: "quantità"
@@ -618,9 +618,9 @@ it:
   order_email_resent: " Email ordine reinviata"
   order_mailer: 
     cancel_email: 
-      subject: "Cancellation of Order"
+      subject: " - Cancellazione Ordine"
     confirm_email: 
-      subject: "Order Confirmation"
+      subject: " - Conferma Ordine"
   order_not_in_system: "Numero d'ordine non valido."
   order_number: "Ordine n°"
   order_operation_authorize: "Autorizzazione"
@@ -633,7 +633,7 @@ it:
     awaiting_return: "in attesa di ritorno"
     canceled: "cancellato"
     cart: "carrello"
-    complete: "completo"
+    complete: "completato"
     confirm: "conferma"
     delivery: "consegna"
     payment: "pagamento"
@@ -663,7 +663,7 @@ it:
   path: "Percorso"
   pay: "pagare"
   payment: "Pagamento"
-  payment_actions: "Actions"
+  payment_actions: "Azioni"
   payment_gateway: "Gateway di pagamento"
   payment_information: "Informazione pagamento"
   payment_method: "Metodo di pagamento"
@@ -674,7 +674,7 @@ it:
   payment_states: 
     balance_due: "saldo"
     checkout: checkout
-    completed: completed
+    completed: 'completato'
     credit_owed: "credito nei confronti"
     failed: "fallito"
     paid: "pagato"
@@ -700,6 +700,7 @@ it:
   problem_capturing_card: "Problema di acquisizione della carta di credito"
   problems_processing_order: "Errore durante l'elaborazione dell'ordine"
   proceed_as_guest: "Prego, procedere come Guest"
+  proceed_checkout: "Procedi con l'acquisto"
   process: "Processo"
   product: "Prodotto"
   product_details: "Dettagli prodotto"
@@ -834,7 +835,7 @@ it:
         sentence: "con proprietà <em>%s</em> e valore <em>%s</em>"
   products: "Prodotti"
   products_with_zero_inventory_display: "I prodotti esauriti%{not} sono visualizzati"
-  promotion: Promotion
+  promotion: Promozione
   promotion_form: 
     match_policies: 
       all: "Una qualunque di queste regole"
@@ -929,7 +930,7 @@ it:
   shipment_details: "Dettagli spedizione"
   shipment_mailer: 
     shipped_email: 
-      subject: "Shipment Notification"
+      subject: "Notifica di Spedizione"
   shipment_number: "Spedizione #"
   shipment_state: "Stato della spedizione"
   shipment_states: 
@@ -1053,6 +1054,7 @@ it:
   unrecognized_card_type: "Il tipo di scheda non è stato riconosciuta"
   update: "Salva"
   update_password: "Aggiorna la mia password e login"
+  update_quantities: 'Aggiorna le quantità'
   updated_successfully: "Aggiornato con successo"
   updating: "In aggiornamento"
   usage_limit: "Limite d'uso"
