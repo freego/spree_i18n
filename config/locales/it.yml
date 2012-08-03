@@ -1080,7 +1080,7 @@ it:
   vat: "IVA"
   version: "Versione"
   view_shipping_options: "Vedi le opzioni di spedizione"
-  void: "Vuoto"
+  void: "Annulla"
   website: "Sito web"
   weight: "Peso"
   welcome_to_sample_store: "Benvenuti nello store d'esempio"
