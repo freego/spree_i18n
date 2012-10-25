@@ -625,7 +625,7 @@ it:
   order_number: "Ordine n°"
   order_operation_authorize: "Autorizzazione"
   order_processed_but_following_items_are_out_of_stock: "Il tuo ordine è stato processato, ma i seguenti prodotti sono esauriti"
-  order_processed_successfully: "L'ordine è stato terminato con successo"
+  order_processed_successfully: "L'ordine è stato terminato con successo. Riceverai un'email con ulteriori informazioni."
   order_state: # keys correspond to Checkout state names:
     # keys correspond to Checkout state names: 
     address: "indirizzo"
